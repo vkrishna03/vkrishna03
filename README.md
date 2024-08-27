@@ -41,23 +41,8 @@ I have a deep love for clean code, a knack for refactoring until perfection, and
 - **[Simple Expense Tracker App](#)** (October '23): Built a web app to track expenses so I can pretend I have financial discipline. Stack: ReactJS, Spring Boot, PostgreSQL.
 - **[Service Health Monitoring System](#)** (September '23): Because “Are you alive?” is a valid question for both services and Monday mornings. Stack: ReactJS, NodeJS, ExpressJS, MongoDB.
 
-
-## Fun Fact
-
-- Leading students through the chaotic wonderland of tech, all while pretending to know the answers to everything.
-- Provided tech support and organized events, debugging students' lives one code snippet at a time.
-- When I’m not coding, I’m hitting the high notes—because both require good rhythm and a lot of practice.
-- Performed for over 3000 people. Turns out, a good loop isn't just for code.
-
 ---
 
 ### Ping me!  
 Reach out on [LinkedIn](https://linkedin.com/in/vkrishnakodimala) or [GitHub](https://github.com/vkrishna03). Or, if you’re feeling old school, send me an email at vkrishnakodimala@gmail.com.
 
----
-
-Remember: Code is poetry, but sometimes, it’s just a really long novel with no ending in sight.
-
-Also remember: When the going gets tough, the tough get coding.
-
----
