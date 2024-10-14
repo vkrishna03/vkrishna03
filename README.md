@@ -31,7 +31,7 @@ I have a deep love for clean code, a knack for refactoring until perfection, and
 
 - **Languages**: Python, C, JavaScript, TypeScript, SQL, JAVA
 - **Web Technologies & Frameworks**: ReactJS, Spring Boot, MUI, TailwindCSS, Redux, NodeJS
-- **Databases & Tools**: PostgreSQL, MySQL, Oracle 10g, Docker (containers so isolated they have trust issues), Maven, GIT (because everyone needs a “reset --hard” sometimes)
+- **Databases & Tools**: PostgreSQL, MySQL, Oracle 10g, Docker, Maven, GIT
 - **Secret Weapon**: Coffee. Lots of it.
 
 ---
