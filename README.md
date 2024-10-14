@@ -14,13 +14,13 @@
 const vamshiKrishna = {
     title: "Software Engineer",
     specialization: "Keeping the codebase clean while putting out startup fires",
-    motto: "When the founders are away, I lead the team astray (into better code, of course).",
+    motto: "When the founders are away, I lead the team (into better code, of course).",
     skills: ["Team Leadership", "Web Dev Mastery", "Startup Survival Mode"],
     debugMode: false // I prefer writing code that doesn't need it.
 };
 ```
 
-Hey there! I’m your go-to Software Engineer who not only crafts elegant code but also keeps the startup ship afloat when the founders are MIA (Missing In Action, not Method Invocation Argument, for the non-techies). Think of me as a Swiss Army knife in the world of software engineering—I handle everything from leading a team to squashing bugs, all while keeping the chaos under control.
+Hello! I’m your go-to Software Engineer—balancing technical excellence with leadership skills, especially in the dynamic environment of a startup. I thrive when coding and leading, always aiming to keep the team and codebase in top shape. Think of me as a versatile tool in software engineering: I handle everything from mentoring teammates to refining algorithms, all while staying calm amidst the chaos.
 
 I have a deep love for clean code, a knack for refactoring until perfection, and an occasional tendency to chat with AI models like they’re my pets. Currently pursuing a B.Tech in CSE (AI & ML), I’m on a mission to compile my life into a bug-free runtime, one line of code at a time.
 
