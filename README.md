@@ -29,8 +29,8 @@ I have a deep love for clean code, a knack for refactoring until perfection, and
 
 ## Tech Stack
 
-- **Languages**: Python, C, JavaScript, TypeScript, SQL, JAVA (Just Another Vague Acronym)
-- **Web Technologies & Frameworks**: ReactJS, Spring Boot, MUI, TailwindCSS, Redux, NodeJS (and, yes, I've Googled “Why is my Node app slow?” more times than I care to admit)
+- **Languages**: Python, C, JavaScript, TypeScript, SQL, JAVA
+- **Web Technologies & Frameworks**: ReactJS, Spring Boot, MUI, TailwindCSS, Redux, NodeJS
 - **Databases & Tools**: PostgreSQL, MySQL, Oracle 10g, Docker (containers so isolated they have trust issues), Maven, GIT (because everyone needs a “reset --hard” sometimes)
 - **Secret Weapon**: Coffee. Lots of it.
 
